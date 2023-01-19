@@ -1,0 +1,44 @@
+[
+  {
+    "MountId": "56e62dd7-241f-41e9-8c6b-dd4ca4513e62",
+    "AncestorCsetIds": [
+      85
+    ],
+    "SourceCsetId": 87,
+    "DestinationCsetId": 85,
+    "FileConflicts": [
+      {
+        "Path": "/Assets/Scripts/Player/PlayerCtrl.cs",
+        "ItemId": 223,
+        "ParentItemId": 3777,
+        "BaseRevId": 5139,
+        "SourceRevId": 5173,
+        "DestinationRevId": 5139
+      },
+      {
+        "Path": "/Assets/Scripts/Player/PlayerStat.cs",
+        "ItemId": 1730,
+        "ParentItemId": 3777,
+        "BaseRevId": 5141,
+        "SourceRevId": 5054,
+        "DestinationRevId": 5141
+      },
+      {
+        "Path": "/Assets/Scripts/WhiteWolf/Boss_WhiteWolfCtrl.cs",
+        "ItemId": 221,
+        "ParentItemId": 3783,
+        "BaseRevId": 5143,
+        "SourceRevId": 5184,
+        "DestinationRevId": 5143
+      },
+      {
+        "Path": "/Assets/Scenes/Main.unity",
+        "ItemId": 3775,
+        "ParentItemId": 161,
+        "BaseRevId": 5161,
+        "SourceRevId": 5182,
+        "DestinationRevId": 5161
+      }
+    ]
+  }
+]
